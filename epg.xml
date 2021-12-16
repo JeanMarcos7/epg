@@ -6,7 +6,6 @@
   </channel>
   <channel id="Example">
     <display-name lang="en">Example</display-name>
-    <url>http://www.dummy</url>
   </channel>
   <programme start="20211216000000 +0000" stop="20211216235900 +0000" channel="Example">
     <title lang="en">dummy program - Full Day Show</title>
