@@ -2,13 +2,6 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="Band Sports">
     <display-name lang="pt">Band Sports</display-name>
-    <url>http://www.sky.com.br</url>
+    <url>http://www.vivo.com.br</url>
   </channel>
-  <channel id="Example">
-    <display-name lang="en">Example</display-name>
-  </channel>
-  <programme start="20211216000000 +0000" stop="20211216235900 +0000" channel="Example">
-    <title lang="en">dummy program - Full Day Show</title>
-    <desc lang="en">Created by WebGrab+Plus, your favorite TVguide Grabber.(n)</desc>
-  </programme>
 </tv>
